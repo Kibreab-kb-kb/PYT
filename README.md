@@ -1,1 +1,1 @@
-pyt project using tensor and pytorch
+pyt machine learning project using tensor and pytorch
